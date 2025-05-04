@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-archive",
   "description": "群史官，可以让群友自行上传怪话保存，按群组分隔管理",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "contributors": [
     "Yis_Rime <yis_rime@outlook.com>"
   ],
